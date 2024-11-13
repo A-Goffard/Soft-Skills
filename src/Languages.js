@@ -50,7 +50,7 @@ const messages = {
       btntrainingmaterial8download1: 'Training certificate for trainers',
       btntrainingmaterial9download1: 'Satisfaction survey for training of trainers',
       btntrainingmaterial10download1: 'Training soft skills in a work situation',
-      btntrainingmaterial10download2: 'Shoft Skills',
+      btntrainingmaterial10download2: 'Soft Skills',
       btntrainingmaterial11download1: 'HR Training',
       btntrainingmaterial12download1: 'WBL MEMO',
 
@@ -267,7 +267,7 @@ const messages = {
       btntrainingmaterial8download1: 'Certificado de formación para formadores',
       btntrainingmaterial9download1: 'Encuesta de satisfacción para la formación de formadores',
       btntrainingmaterial10download1: 'Formación en competencias sociales en una situación laboral',
-      btntrainingmaterial10download2: 'Shoft Skills',
+      btntrainingmaterial10download2: 'Soft Skills',
       btntrainingmaterial11download1: 'Formación en RRHH',
       btntrainingmaterial12download1: 'MEMO ABT',
 
@@ -485,7 +485,7 @@ const messages = {
       btntrainingmaterial8download1 : 'Certificat de formation pour formateurs',
       btntrainingmaterial9download1 : 'Enquête de satisfaction pour la formation des formateurs',
       btntrainingmaterial10download1: 'Training soft skills in a work situation',
-      btntrainingmaterial10download2 : 'Shoft Skills',
+      btntrainingmaterial10download2 : 'Soft Skills',
       btntrainingmaterial11download1 : 'HR Training',
       btntrainingmaterial12download1: 'WBL MEMO',
 
@@ -917,7 +917,7 @@ const messages = {
       btntrainingmaterial8download1: 'Certifikat o usposabljanju za trenerje',
       btntrainingmaterial9download1: 'Anketa o zadovoljstvu pri usposabljanju trenerjev',
       btntrainingmaterial10download1: 'Training soft skills in a work situation',
-      btntrainingmaterial10download2: 'Shoft Skills',
+      btntrainingmaterial10download2: 'Soft Skills',
       btntrainingmaterial11download1: 'HR Training',
       btntrainingmaterial12download1: 'WBL MEMO',
 
@@ -1132,7 +1132,7 @@ const messages = {
       btntrainingmaterial8download1: 'Prestatzaileentzako prestakuntza-ziurtagiria',
       btntrainingmaterial9download1: 'Prestatzaileen prestakuntzarako asebetetze inkesta',
       btntrainingmaterial10download1: 'Training soft skills in a work situation',
-      btntrainingmaterial10download2: 'Shoft Skills',
+      btntrainingmaterial10download2: 'Soft Skills',
       btntrainingmaterial11download1: 'HR Training',
       btntrainingmaterial12download1: 'WBL MEMO',
 
