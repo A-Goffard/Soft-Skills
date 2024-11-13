@@ -190,7 +190,7 @@ const messages = {
       assessment4title: 'Generic assessment grid',
       assessment4text: 'A generic assessment grid has been developed and helps the trainer/ technical supervisor/ tutor/ assessor to assess soft skills level at the end of an acquisition process by using the evaluation by recurrent observation method without link with a precise job. As the placement grid, it uses the observable behaviours as indicators to attest if a soft skills level is acquired or not.',
       assessment4download1: 'Generic assessment grid EN finalized 02 08 2021.xlsx',
-      assessment5title: 'Specific assessment grid biotechnology assisstant',
+      assessment5title: 'Specific assessment grid',
       assessment5text: 'Seven specific assessment grids have been developed and helps the trainer/ technical supervisor/ tutor/ assessor to assess the level of soft skills of a trainee at the end of an acquisition process by using the method of assessment by recurrent observation in relation to specific job profiles : Cleaning operative (FR – EN), Welder Boilermaker (SP – EN), Green Area Maintenance operator (EN), Seller Restocker (FR – EN), Help Cooker (FR – EN), Viticulture operator (FR – EN), Biotechnology assistant (EN)',
       assessment5download1: 'Specific assessment grid - Assisstant chef.xlsx',
       assessment5download2: 'Specific assessment grid - Biotechnology assisstant - EN.xlsx',
