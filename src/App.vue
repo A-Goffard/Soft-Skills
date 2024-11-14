@@ -6,7 +6,7 @@ import PopupNavbar from './components/PopupNavbar.vue';
 </script>
 
 <template>
-  <div class="general">
+  <div  id="app" class="general">
     <NavBar />
     <LanguageSelector />
     <main class="content">
@@ -57,6 +57,20 @@ import PopupNavbar from './components/PopupNavbar.vue';
   
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
 
 h2, h3, h4, p {
   margin: 1rem;
