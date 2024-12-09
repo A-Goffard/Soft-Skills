@@ -1026,12 +1026,12 @@ const messages = {
 
       trainingmaterial10title: 'Usposabljanje za mentorje in trenerje v učenju na delovnem mestu',
       trainingmaterial10text: '"Usposabljanje za mentorje in trenerje v učenju na delovnem mestu" je program in vsebina usposabljanja za inštruktorje, trenerje, tehnične nadzornike, mentorje in ocenjevalce, ki se želijo naučiti, kako uporabljati projekt "Soft Skills 2.0" in orodja, ki izhajajo iz njega, ter se usposabljati v mehkih veščinah v kontekstih učenja na delovnem mestu, bodisi v resničnem proizvodnem okolju ali v simuliranem delovnem okolju.',
-      trainingmaterial10download1: 'Tutors training-GB.pdf',
-      trainingmaterial10download2: 'PPTs - WBL TT Training GB.pdf',
+      trainingmaterial10download1: 'Tutors training-SL.pdf',
+      trainingmaterial10download2: 'PPTs - WBL TT  Training SLO.pdf',
 
       trainingmaterial11title: 'Usposabljanje kadrovikov na področju usposabljanja na delovnem mestu',
       trainingmaterial11text: '"Usposabljanje za upravljanje človeških virov pri učenju na delovnem mestu" je tečaj za vodje kadrovskih služb, ki želijo razviti evropsko pot upravljanja človeških virov z uporabo orodij, ki na vsakem koraku procesa, opisanega v projektu, dajejo poudarek mehkim veščinam.',
-      trainingmaterial11download1: 'HR Training - PPTs EN.pdf',
+      trainingmaterial11download1: 'HR Training - PPTs SLO_.pdf',
 
       trainingmaterial12title: 'MEMO Učenje na delovnem mestu',
       trainingmaterial12text: '"WBL Memo Učenje na delovnem mestu " je gradivo namenjeno odgovornim za organizacijo pogojev in dejavnosti, potrebnih za strukturiranje procesa poučevanja in učenja mehkih veščin v določenem kontekstu učenja na delovnem mestu. Vsebuje zaporedni in organizirani pristop k učenju ter ponuja uporabna orodja za razvoj vsakega koraka in dejavnosti, ki so za to potrebne.',
