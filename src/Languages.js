@@ -269,7 +269,7 @@ const messages = {
       btntrainingmaterial10download1: 'Formación en competencias sociales en una situación laboral',
       btntrainingmaterial10download2: 'Soft Skills',
       btntrainingmaterial11download1: 'Formación en RRHH',
-      btntrainingmaterial12download1: 'MEMO ABT',
+      btntrainingmaterial12download1: 'MEMO WLT',
 
       assessmentpage: 'Evaluación',
       btnassessment1download1: 'Protocolo de contextualización  y evaluación',
@@ -375,17 +375,17 @@ const messages = {
       trainingmaterial9text: 'Al final de la formación, estas encuestas de satisfacción pueden ser rellenadas por los formadores que han seguido la formación y por el formador que la ha impartido; el objetivo es cuestionar su satisfacción y mejorar la formación.',
       trainingmaterial9download1: 'Satisfaction surveys - training of trainers - SP.docx',
 
-      trainingmaterial10title: 'Formación para instructores y formadores en un contexto de ABT',
+      trainingmaterial10title: 'Formación para instructores y formadores en un contexto de WLT',
       trainingmaterial10text: 'La "formación para instructores y formadores en un contexto de aprendizaje basado en el trabajo" es un programa y un contenido formativo para instructores, formadores, supervisores técnicos, tutores y evaluadores que quieran aprender a utilizar el proyecto y las herramientas que de él se derivan y a formar en soft skills en contextos de aprendizaje basado en el trabajo, sean estos en un entorno de producción real o en un entorno de actividad de trabajo simulada.',
       trainingmaterial10download1: 'Tutors training-ES.pdf',
       trainingmaterial10download2: 'PPTs - WBL TT Training ES.pdf',
 
 
-      trainingmaterial11title: 'Formación para la gestión de recursos humanos en un contexto de ABT',
+      trainingmaterial11title: 'Formación para la gestión de recursos humanos en un contexto de WLT',
       trainingmaterial11text: 'La "formación para la gestión de recursos humanos en un contexto de aprendizaje basado en el trabajo" es un curso para responsables de recursos humanos que quieran desarrollar el itinerario europeo de gestión de recursos humanos, utilizando las herramientas que sitúan la atención a las soft skills en cada paso de dicho proceso planteado en el proyecto.',
       trainingmaterial11download1: 'HR Training - PPTs ES.pdf',
 
-      trainingmaterial12title: 'Memoria para un contexto de ABT',
+      trainingmaterial12title: 'Memoria para un contexto de WLT',
       trainingmaterial12text: 'La "Memoria para un contexto de aprendizaje basado en el trabajo" es un material. que ofrece a los responsables de organizar las condiciones y actividades necesarias para estructurar el proceso de enseñanza-aprensdizaje de las soft skills en un contexto específico de aprendizaje basado en el trabajo. Cuenta con una propuesta secuenciada y organizada para plantear el aprendizaje y ofrece herramientas de utilidad para desarrollar cada paso y las actividades necesarias para ello.',
       trainingmaterial12download1: 'WBL_Memo_Esp.pdf',
 
@@ -419,13 +419,13 @@ const messages = {
       assessment6title: 'Lista de control de Soft Skills para los formadores',
       assessment6text: 'La "lista de control para los formadores" permite a los formadores, supervisores técnicos, tutores y evaluadores verificar sus conocimientos relacionados con las soft skills después de una formación de formadores, pero también tener una visión global de los materiales y herramientas necesarios para la realización de contextualizaciones, formaciones o evaluaciones de soft skills dentro de su organización.',
       assessment6download1: 'Soft skills checklist for Trainers-SP.pdf',
-      assessment7title: 'Métodos en situaciones de ABT',
+      assessment7title: 'Métodos en situaciones de WLT',
       assessment7text: 'El documento “Métodos para la contextualización y la evaluación de las soft skills en situaciones de aprendizaje basado en el trabajo” ofrece un protocolo que tiene como objetivo facilitar la ubicación y la evaluación de las soft skills en el proceso de aprendizaje basado en el trabajo que se desarrolló en el marco del proyecto Erasmus+ Soft skills 2.0. En él se describen los pasos del proceso de aprendizaje basado en el trabajo desarrollado en el proyecto, las condiciones previas para evaluar las habilidades interpersonales en este entorno y las herramientas desarrolladas para los pasos individuales del proceso de aprendizaje basado en el trabajo. También presenta una visión general del proceso de contextualización necesario para definir el punto de partida del itinerario de aprendizaje de los participantes que desean mejorar sus soft skills en un contexto de aprendizaje basado en el trabajo.',
       assessment7download1: 'Placement and assessment methods in WBL situations Vfinal es.docx',
 
       humanresources1title: 'Las Soft skills en el Centro de Recursos Humanos',
       humanresources1text: 'La herramienta "Las soft skills en el corazón de los recursos humanos" ofrece un itinerario europeo para la gestión de los recursos humanos en el entorno empresarial, integrando en él las soft skills y ofreciendo para cada uno de los pasos de dicho itinerario una serie protocolos y herramientas para utilizarse en cada una de las etapas de dicho proceso.',
-      humanresources1download1: 'Las Soft skills en el Centro de Recursos Humanos-ES.pdf',
+      humanresources1download1: 'ES - HRM Protocol V14 bis es-ES.pdf',
 
       footerpp: 'Política de privacidad',
       footertu: 'Términos de uso',
