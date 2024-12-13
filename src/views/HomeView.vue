@@ -66,6 +66,20 @@ img {
   max-width: 45%;
   height: auto;
 }
+
+/* Media Query para versión móvil */ 
+@media (max-width: 768px) { 
+.container1, 
+.container2 { 
+  flex-direction: column; 
+  align-items: center; } 
+.hometext_1, 
+.hometext_2 { 
+  max-width: 100%; 
+  text-align: center; } 
+  img { max-width: 100%; } }
+
+
 </style>
 
 <script setup>

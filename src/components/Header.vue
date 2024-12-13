@@ -122,6 +122,15 @@ h1 {
   filter: drop-shadow(0px 0px 7px var(--salmon));
 }
 }
+
+@media (max-width: 380px) { 
+
+h1 {
+
+  font-size: 2rem;
+
+}
+}
 </style>
   
   <script setup>
