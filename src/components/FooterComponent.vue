@@ -17,8 +17,8 @@
     <div>
     </div>
     <div class="general">
-      <p>&#169; Powered by Voltus V| Peñascal F5</p>
-      <img src="/CC_Licencia.webp" alt="lisence">
+      <p class="centre">&#169; Powered by <a href="/extra">Voltus V</a> | <a href="https://www.grupopenascal.com/" target="_blank">Peñascal F5<img class="logoPenascal" src="/public/icons/penascal.png" alt="Logo Peñascal"></a></p>
+      <img class="lisence" src="/CC_Licencia.webp" alt="lisence">
       <div>
         <img :src="footerLogo()" alt="Footer Logo" class="footer-logo" />
       </div>
@@ -37,6 +37,15 @@ const footerLogo = () => t('message.footerLogo'); // Función que devuelve la ru
 
 
 <style scoped>
+
+.logoPenascal {
+  background-color: var(--salmontransp);
+  width: 10rem;
+  vertical-align: middle;
+  margin: 0rem 1rem;
+  padding: 0.3rem;
+  border-radius: 0.7rem;
+}
 div {
 
   color: white;
@@ -56,6 +65,12 @@ a{
   width: 100%;
   background-color: var(--ligthorange);
   padding-bottom: 2rem;
+
+}
+.centre {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 ul {
   text-decoration: none;
@@ -70,6 +85,9 @@ ul {
 .footer-logo {
   height: 3rem;
   margin: 1rem;
+}
+.lisence {
+  border-radius: 0.7rem;
 }
 .olas{
   width: 100%;

@@ -5,6 +5,7 @@ import PedagogyView from '../views/PedagogyView.vue';
 import TrainingView from '../views/TrainingView.vue';
 import AssessmentView from '../views/AssessmentView.vue';
 import HumanResourcesView from '../views/HumanResourcesView.vue';
+import ExtraView from '../views/ExtraView.vue';
 
 const routes = [
   { path: '/', name: 'Home', component: HomeView },
@@ -13,6 +14,7 @@ const routes = [
   { path: '/assessment', name: 'Assessment', component: AssessmentView },
   { path: '/humanresources', name: 'Human resources', component: HumanResourcesView },
   { path: '/about', name: 'Partners', component: AboutView },
+  { path: '/extra', name: 'Estra', component: ExtraView},
 ];
 
 const router = createRouter({
