@@ -14,7 +14,7 @@ const routes = [
   { path: '/assessment', name: 'Assessment', component: AssessmentView },
   { path: '/humanresources', name: 'Human resources', component: HumanResourcesView },
   { path: '/about', name: 'Partners', component: AboutView },
-  { path: '/extra', name: 'Estra', component: ExtraView},
+  { path: '/extra', name: 'Extra', component: ExtraView},
 ];
 
 const router = createRouter({
