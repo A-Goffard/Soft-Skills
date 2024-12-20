@@ -17,7 +17,7 @@
     <div>
     </div>
     <div class="general">
-      <p class="centre">&#169; Powered by <a href="/extra">Voltus V</a> | <a href="https://www.grupopenascal.com/" target="_blank">Peñascal F5<img class="logoPenascal" src="/public/icons/penascal.png" alt="Logo Peñascal"></a></p>
+      <p class="centre">&#169; Powered by <button class="link" @click="linkExtra"><b>Voltus V</b></button> | <a href="https://www.grupopenascal.com/" target="_blank">Peñascal F5<img class="logoPenascal" src="/public/icons/penascal.png" alt="Logo Peñascal"></a></p>
       <img class="lisence" src="/CC_Licencia.webp" alt="lisence">
       <div>
         <img :src="footerLogo()" alt="Footer Logo" class="footer-logo" />
@@ -32,11 +32,18 @@ import { useI18n } from 'vue-i18n';
 const { t, locale } = useI18n();
 
 const footerLogo = () => t('message.footerLogo'); // Función que devuelve la ruta según el idioma
-
+const linkExtra = () => { window.location.href = '/extra'; }
 </script>
 
 
 <style scoped>
+.link{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: x-large;
+
+}
 
 .logoPenascal {
   background-color: var(--salmontransp);
