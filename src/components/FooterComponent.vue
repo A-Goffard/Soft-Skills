@@ -16,6 +16,8 @@
     </div>
     <div>
     </div>
+  </div>
+  <div>
     <div class="general">
       <p class="centre">&#169; Powered by <button class="link" @click="linkExtra"><b>Voltus V</b></button> | <a href="https://www.grupopenascal.com/" target="_blank">Peñascal F5<img class="logoPenascal" src="/public/icons/penascal.png" alt="Logo Peñascal"></a></p>
       <img class="lisence" src="/CC_Licencia.webp" alt="lisence">
@@ -28,11 +30,17 @@
 
 <script setup>
 import { useI18n } from 'vue-i18n';
+import { useRouter } from 'vue-router';
 
 const { t, locale } = useI18n();
+const router = useRouter();
 
 const footerLogo = () => t('message.footerLogo'); // Función que devuelve la ruta según el idioma
-const linkExtra = () => { window.location.href = '/extra'; }
+
+const linkExtra = () => {
+  // Redirigir usando Vue Router
+  router.push('/extra');
+}
 </script>
 
 
