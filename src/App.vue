@@ -234,5 +234,23 @@ h2 {
   font-size: 1rem;
 }
 
+.comp-card {
+  max-width: 15rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0.6rem 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: var(--white);
+  margin: 0rem;
+  transition: ease all 250ms;
+  border: solid 2px var(--ligthorange);
+}
+
 }
 </style>
